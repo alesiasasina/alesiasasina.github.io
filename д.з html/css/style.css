@@ -1,0 +1,432 @@
+body{
+    padding: 20px;
+}
+
+h1, h2{
+    font-family: Helvetica;
+    padding: 50px;
+}
+
+p{
+    font-family: 'Comfortaa', cursive;  
+}
+
+tr{
+    font-size: 1.2en;
+    font-weight: normal;
+}
+
+
+
+
+p{
+    color: black
+}
+body {
+    background-color: teal;
+    padding: 20px;
+}
+
+
+
+p.трилогия{
+    padding: 50px 50px 0px 50px; 
+    font-family: 'Kalam', cursive;
+    font-family: Helvetica;
+}
+
+
+   h1{
+     padding: 50px;
+     font-size: 45px;
+   }
+
+    h2#chapter-one{
+        padding: 20px 30px 0px 60px;
+    }
+    h2#chapter-two{
+        font-family: Helvetica; 
+        font-weight: bold;
+    }
+    
+
+
+
+
+nav.menu{
+    margin-top: 20px;
+    background-color: springgreen;
+    border-radius: 20px;
+    margin-right: 30px;
+    margin-left: 30px;
+    padding: 10px 20px;
+    border-top: rgb(43, 48, 45);
+    border-bottom: 1px rgb(17, 17, 16);
+    overflow: hidden;  /* чтобы список был именно в контейнере*/
+}
+ul.class_menu{
+    list-style-type: none;
+    float: right;
+
+}
+ul.class_menu li{
+    float: left;
+    margin-right: 15px;
+
+}
+ul.class_menu li:last-child{
+    margin-right: 0px;
+}
+ul.class_menu li a{
+    text-decoration: none;
+    border-color: rgb(16, 17, 17);
+    display: block;
+    padding: 10px;
+    border-radius: 7px;
+
+}
+ul.class_menu li a:hover{
+    color: rgb(16, 17, 17);
+    border: yellow;
+
+}
+
+
+
+
+
+li.заметка_1{
+    font-style: italic;
+    font-weight: bold;
+    color: mediumblue;
+}
+li.заметка_2{
+    font-style: italic;
+    font-weight: bold;
+    color: mediumblue;
+}
+li.заметка_3{
+    font-style: italic;
+    font-weight: bold;
+    color: mediumblue;
+}
+li.заметка_4{
+    font-style: italic;
+    font-weight: bold;
+    color: mediumblue;
+}
+li.заметка_5{
+    font-style: italic;
+    font-weight: bold;
+    color: mediumblue;
+}
+
+
+
+ul{
+    font-style: normal;
+    
+}
+
+b.Заметка_1{
+    font-style: italic;
+    font-family: Helvetica;
+    padding: 10px;
+     
+}
+b.Заметка_2{
+    font-style: italic; 
+    font-family: Helvetica;
+}
+b.Заметка_3{
+    font-style: italic; 
+    font-family: Helvetica;
+}
+h2.Заметка_4{
+    font-style: italic; 
+    font-family: Helvetica;
+}
+b.Заметка_5{
+    font-style: italic; 
+    font-family: Helvetica;
+}
+
+
+
+li.Глава_1{
+    padding: 1px 50px 1px 50px;
+    font-weight: bold;
+}
+li.Глава_2{
+    padding: 1px 50px 1px 50px;
+    font-weight: bold;
+   
+}
+li.Глава_3{
+    padding: 1px 50px 1px 50px;
+    font-weight: bold;
+    
+}
+li.Глава_4{
+    padding: 1px 50px 1px 50px;
+    font-weight: bold;
+    
+}
+li.Глава_5{
+    padding: 1px 50px 1px 50px;
+    font-weight: bold;
+}
+
+   
+
+
+
+
+*p.Глава_1{
+    text-decoration: none;
+}
+*:hover{
+    text-decoration: none;
+}
+
+*p.Глава_2{
+    text-decoration: none;
+}
+*:hover{
+    text-decoration: none;
+}
+
+*p.Глава_3{
+    text-decoration: none;
+}
+*:hover{
+    text-decoration: none;
+}
+
+*p.Глава_4{
+    text-decoration: none;
+}
+*:hover{
+    text-decoration: none;
+}
+
+*p.Глава_5{
+    text-decoration: none;
+}
+*:hover{
+    text-decoration: none;
+}
+
+
+
+b.Заметка_1{
+    font-size: 20px;
+    font-weight: bold;
+    color: mediumblue;
+    
+}
+
+b.Заметка_2{
+    font-size: 20px;
+    font-weight: bold;
+    color: mediumblue;
+}
+
+b.Заметка_3{
+    font-size: 20px;
+    font-weight: bold;
+    color: mediumblue; 
+}
+
+
+b.Заметка_5{
+    font-size: 20px;
+    font-weight: bold;
+    color: mediumblue; 
+}
+
+ul{
+    list-style-type: disc;
+}
+
+
+
+p.фото{
+    padding: 50px 30px 0px 50px;
+}
+p.рохан{
+    padding: 10px 0px 0px 50px;
+}
+p.осада{
+    padding: 0px 0px 0px 50px;
+}
+p.фото_5{
+    padding: 0px 50px 1px 50px;
+    font-family: 'Comfortaa', cursive;
+}
+    
+
+p.Пиппин{
+    font-family: 'Comfortaa', cursive;
+    padding: 1px 50px 20px 50px; 
+}
+    
+
+
+p.помнится{
+    font-family: 'Comfortaa', cursive; 
+    padding: 1px 50px 50px 50px; 
+}
+p.когда{
+    font-family: 'Comfortaa', cursive;  
+    padding: 0px 30px 20px 10px;
+}
+p.мерри{
+    font-family: 'Comfortaa', cursive; 
+    padding: 50px ;
+}
+h2#chapter-two{
+    padding: 10px 50px 0px 50px;
+    font-family: 'Comfortaa', cursive; 
+}
+p.отныне{
+    padding: 0px 50px 0px 50px;
+    font-family: 'Comfortaa', cursive; 
+}
+p.вечерело{
+    padding: 0px 50px 0px 50px;
+    font-family: 'Comfortaa', cursive; 
+}
+p.весь{
+    padding: 0px 50px 0px 50px;
+    font-family: 'Comfortaa', cursive; 
+}
+p.мэрри{
+    padding: 0px 50px 30px 50px;
+    font-family: 'Comfortaa', cursive; 
+}
+p.гэндальф{
+    padding: 20px 50px 0px 50px;
+    font-family: 'Comfortaa', cursive; 
+}
+p.который{
+    padding: 0px 50px 50px 50px;
+    font-family: 'Comfortaa', cursive; 
+}
+
+
+p.а{
+    padding: 0px 50px; 
+    margin: 10px;
+    font-family: 'Comfortaa', cursive;
+}
+
+p.б{
+    padding: 0px 50px;
+    margin: -40px 10px;
+    font-family: 'Comfortaa', cursive;  
+}
+
+p.в{
+    padding: 1px 50px; 
+    margin: -40px 10px;
+
+    font-family: 'Comfortaa', cursive; 
+}
+
+p.г{
+    padding: 1px 50px; 
+    margin: 10px 10px;
+    font-family: 'Comfortaa', cursive; 
+}
+p.д{
+    padding:0px 50px;
+    margin: 0px 60px;
+    font-family: 'Comfortaa', cursive;  
+}
+
+p.е{
+    padding: 0px 50px 30px 50px;
+    margin: 0px 50px;
+    font-family: 'Comfortaa', cursive;
+}
+
+h2.Заметка_4{
+    padding: 1px 10px 1px 50px;
+    color: mediumblue;
+}
+
+p.аа{
+    padding: 1px 50px 1px 50px;  
+    font-family: 'Comfortaa', cursive;
+}
+p.аб{
+    padding: 1px 50px 1px 50px;
+    font-family: 'Comfortaa', cursive;  
+}
+p.ав{
+    padding: 1px 50px 1px 50px;
+    font-family: 'Comfortaa', cursive;  
+}
+p.аг{
+    padding: 1px 50px 1px 50px; 
+    font-family: 'Comfortaa', cursive; 
+}
+p.ад{
+    padding: 1px 50px 1px 50px;  
+    font-family: 'Comfortaa', cursive;
+}
+p.ае{
+    padding: 1px 50px 1px 50px;
+    font-family: 'Comfortaa', cursive;  
+}
+p.начало{
+    font-family: 'Comfortaa', cursive; 
+    padding: 50px 50px 1px 60px; 
+}
+
+p.б{  
+    font-family: 'Comfortaa', cursive;
+    padding: 1px 50px 1px 50px;
+}
+p.в{
+    padding:1px 20px 50px 50px ; 
+    font-family: 'Comfortaa', cursive; 
+}
+td.г{
+    padding:50px 50px 1px 50px ; 
+    font-family: 'Comfortaa', cursive; 
+}
+
+p.д{
+    font-family: 'Comfortaa', cursive;
+    padding: 1px 50px 1px 1px; 
+}
+p.е{
+    font-family: 'Comfortaa', cursive; 
+    padding: 1px 50px 1px 10px; 
+}
+
+
+
+td.палантир{
+    padding: 50px;  
+    font-family: 'Comfortaa', cursive;
+    padding: 50px;
+}
+
+p.б{
+    padding: 50px;  
+    font-family: 'Comfortaa', cursive;
+}
+
+
+
+h2.Заметка_4{
+    padding: 50px;  
+}
+
+
+
+
+
